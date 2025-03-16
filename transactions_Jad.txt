@@ -1,0 +1,3 @@
+Deposito di 100.0€
+Prelievo di 53.0€
+Investimento di 42.0€ per 10 mesi al 2.0%, risultato: 51.197765639779796€
